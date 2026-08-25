@@ -1,6 +1,6 @@
 cask "mp4m" do
-  version "3.3.0"
-  sha256 "2a77e6c8208194b62e2b2e05b088b33eb412ba817de9dd919a7975ee7ef6baaa"
+  version "3.3.1"
+  sha256 "5d5078de9a63ff6505f6a5061603eb2def8b73e1d4b69d9d06be98096a9c16ef"
 
   url "https://github.com/ktam72/mp4m-public/releases/download/#{version}/MP4M-#{version}.zip",
       verified: "github.com/ktam72/mp4m-public/"
